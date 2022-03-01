@@ -15,8 +15,10 @@ Output waveform is different from reference waveform.
 
 # Acknowledgement
 Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
+
 Cloud Based Analog IC Design Hackathon
-Synopsys India
+
+Synposys India
 
 # References
 (1) CMOS Schmitt triggers B.L. Dokic, Ph.D. Indexing terms: Metal-oxide-semiconductor structures, Integrated circuits, Circuit theory and design.
